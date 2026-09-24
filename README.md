@@ -12,3 +12,9 @@ pip install crewai
 ```
 
 **OBS:** [the documentation](https://docs.crewai.com/v1.15.10/pt-BR/installation) recommends another way to install CrewAI.
+
+Extra tools:
+
+```sh
+pip install crewai-tools
+```
