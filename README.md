@@ -18,3 +18,9 @@ Extra tools:
 ```sh
 pip install crewai-tools
 ```
+
+Official command to CrewAI project creation:
+
+```sh
+crewai create crew <project-name>
+```
