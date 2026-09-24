@@ -28,3 +28,4 @@ crewai create crew <project-name>
 **OBS:**
 
 - This command also allow you to select a template;
+- You have to remember that you do noot need this command if you don't wanna use it;
