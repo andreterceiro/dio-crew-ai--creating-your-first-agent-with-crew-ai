@@ -29,3 +29,4 @@ crewai create crew <project-name>
 
 - This command also allow you to select a template;
 - You have to remember that you do noot need this command if you don't wanna use it;
+- You also must remember to access [the official documentation](https://docs.crewai.com/) when necessary.
