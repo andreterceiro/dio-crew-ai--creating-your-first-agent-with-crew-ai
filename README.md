@@ -24,3 +24,7 @@ Official command to CrewAI project creation:
 ```sh
 crewai create crew <project-name>
 ```
+
+**OBS:**
+
+- This command also allow you to select a template;
