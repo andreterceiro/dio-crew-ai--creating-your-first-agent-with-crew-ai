@@ -31,3 +31,8 @@ crewai create crew <project-name>
 - You have to remember that you do noot need this command if you don't wanna use it;
 - You also must remember to access [the official documentation](https://docs.crewai.com/) when necessary;
 - Is possible to use Google Collab.
+
+
+# DIO documentation repository
+
+Teacher said that we can access [this repository](https://github.com/digitalinnovationone/primeiros-passos-criando-seu-primeiro-agente-com-crewai) to see the documentation elaborated by them about this topic.
