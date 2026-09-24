@@ -4,3 +4,9 @@
 - All the populars operational systems (MacOS, Windows and Linux) are supported;
 - The API key of the remote LLM if you wanna use a remote LLM.
 
+
+# Installation
+
+```sh
+pip install crewai
+```
