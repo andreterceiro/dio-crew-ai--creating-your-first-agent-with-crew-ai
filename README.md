@@ -38,8 +38,15 @@ crewai create crew <project-name>
 Teacher said that we can access [this repository](https://github.com/digitalinnovationone/primeiros-passos-criando-seu-primeiro-agente-com-crewai) to see the documentation elaborated by them about this topic.
 
 
-# Structure explained by the Teacher
+# CrewAI structure explained by the teacher
 
 At least in the epoch of the course CrewAI created this structure when creating the project (`crewai create crew <crew-name>` command):
 
 ![structure created by CrewAI in the course epoch](images/structure-created-by-crewai-in-the-course-epoch.png)
+
+
+# Using the agents
+
+Teacher remembered us that we can use the AI tools provided by CrewAI to help us:
+
+![Crew AI - AI tools](images/crew-ai--ai-tools.png)
