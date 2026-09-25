@@ -50,3 +50,8 @@ At least in the epoch of the course CrewAI created this structure when creating 
 Teacher remembered us that we can use the AI tools provided by CrewAI to help us:
 
 ![Crew AI - AI tools](images/crew-ai--ai-tools.png)
+
+
+# A small code to test the CrewAI installation
+
+![small code to test CrewAI installation](images/small-code-to-test-crewai-installation.png)
