@@ -37,5 +37,3 @@ crewai create crew <project-name>
 
 Teacher said that we can access [this repository](https://github.com/digitalinnovationone/primeiros-passos-criando-seu-primeiro-agente-com-crewai) to see the documentation elaborated by them about this topic.
 
-
-# Current progress: [class](https://web.dio.me/track/crew-ai-fundalmentals/course/primeiros-passos-criando-seu-primeiro-agente-com-crewai/learning/3afbfa8e-4ecb-4bbf-a4b5-18424b012a69?autoplay=1) - 02:21
