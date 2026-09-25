@@ -57,3 +57,8 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 ![small code to test CrewAI installation](images/small-code-to-test-crewai-installation.png)
 
 **OBS: teacher ran this code before run `crewai create crew <project-name>`.**
+
+
+# Crew that will be created by the teacher in the course
+
+![crew created by the teacher in the course](images/crew-created-by-the-teacher-in-the-course.png)
