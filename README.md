@@ -69,3 +69,8 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 - **Role**: motivation ou speciality of the agent in the team. In a simple phrase: "who the agent is". Examples are researcher, financial analyst, financial manager, a creative writer;
 - **Goal**: main objective, mission. In a simple phrase: "what he wanna reach". Examples: to create an interesting report based on data, to generate innovative ideas;
 - **Backstory: optional, but imoprtant**. Useful to the agent to have a personality, know where he is. Examples: you are an experience researcher that is known by find relevant information quickly, you are a meticulous analyst with an eye for complex data.
+
+
+# Additional properties of an agent
+
+- Tools: you can provide aditional tools for the agent, calculators or APIs are examples;
