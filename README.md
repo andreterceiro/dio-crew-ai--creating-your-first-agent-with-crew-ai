@@ -66,4 +66,5 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 
 # Important parts of an agent
 
-- **Role**: motivation ou speciality of the agent in the team. In a simple phrase: "who the agent is". Examples are researcher, financial analyst, financial manager, a creative writer
+- **Role**: motivation ou speciality of the agent in the team. In a simple phrase: "who the agent is". Examples are researcher, financial analyst, financial manager, a creative writer;
+- **Goal**: main objective, mission. In a simple phrase: "what he wanna reach". Examples: to create an interesting report based on data, to generate innovative ideas.
