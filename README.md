@@ -75,3 +75,4 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 
 - Tools: you can provide aditional tools for the agent, calculators or APIs are examples;
 - Memory;
+- The capability of to delegate tasks to other agents.
