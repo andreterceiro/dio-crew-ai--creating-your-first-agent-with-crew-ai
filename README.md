@@ -77,3 +77,6 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 - Memory;
 - The capability of to delegate tasks to other agents;
 - Is possible to adjust the verbosity of the agent.
+
+
+# Progess: [class](https://web.dio.me/track/crew-ai-fundalmentals/course/primeiros-passos-criando-seu-primeiro-agente-com-crewai/learning/0aaff56d-6228-4a25-97e6-7ea740c4bbc0?autoplay=1) - 02:51
