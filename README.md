@@ -88,3 +88,7 @@ Teacher said that he will use Google Colab. But, indepenent of this question, se
 Using the same idea teacher coded the tasks. Example:
 
 ![coding a task in Google Colab](images/coding-a-task-in-Google-Colab.png)
+
+**Please note that the teacher is coding the idea passed in tis next graph and that I passing in the previous paragraphs only examples of one agent and one task, not three.**
+
+![crew created by the teacher in the course](images/crew-created-by-the-teacher-in-the-course.png)
