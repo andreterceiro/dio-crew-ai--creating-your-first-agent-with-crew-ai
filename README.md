@@ -87,4 +87,4 @@ Teacher said that he will use Google Colab. But, indepenent of this question, se
 
 Using the same idea teacher coded the tasks. Example:
 
-![coding a task in Google Colab](coding-a-task-in-Google-Colab.png)
+![coding a task in Google Colab](images/coding-a-task-in-Google-Colab.png)
