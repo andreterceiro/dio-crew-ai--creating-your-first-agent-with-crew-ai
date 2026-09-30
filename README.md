@@ -84,3 +84,7 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 Teacher said that he will use Google Colab. But, indepenent of this question, see that teacher didn't use a "special strange file". Istead, he typed the code of the agent:
 
 ![coding an agent in Google Colab](images/coding-an-agent-in-Google-Colab.png)
+
+Using the same idea teacher coded the tasks. Example:
+
+![coding a task in Google Colab](coding-a-task-in-Google-Colab.png)
