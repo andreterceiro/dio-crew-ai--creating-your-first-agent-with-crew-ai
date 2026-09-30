@@ -74,7 +74,7 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 # Additional properties of an agent
 
 - Tools: you can provide aditional tools for the agent, calculators or APIs are examples;
-- Memory;
+- Memory (of past occurrations);
 - The capability of to delegate tasks to other agents;
 - Is possible to adjust the verbosity of the agent.
 
