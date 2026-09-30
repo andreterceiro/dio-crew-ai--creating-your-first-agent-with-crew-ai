@@ -78,3 +78,9 @@ Teacher remembered us that we can use the AI tools provided by CrewAI to help us
 - The capability of to delegate tasks to other agents;
 - Is possible to adjust the verbosity of the agent.
 
+
+# Tasks done in the teacher example
+
+Teacher said that he will use Google Colab. But, indepenent of this question, see that teacher didn't use a "special strange file". Istead, he typed the code of the agent:
+
+![coding an agent in Google Colab](images/coding-an-agent-in-Google-Colab.png)
