@@ -145,3 +145,7 @@ Please note that in this previous script you can see how to use variables:
 When creating the task teacher indicated that an output file was requested to be generated. Example:
 
 ![taks requesting an output file to be generated](images/taks-requesting-an-output-file-to-be-generated.png)
+
+The output in the Jupyter Notebook was relaed only to the last of the three tasks, but the Markdown files was generated:
+
+![generated markdown files](images/generated-markdown-files.png)
