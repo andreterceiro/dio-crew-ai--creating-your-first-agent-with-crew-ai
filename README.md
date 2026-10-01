@@ -141,3 +141,7 @@ print(resultado)
 Please note that in this previous script you can see how to use variables:
 
 ![using variables](images/using-variables.png)
+
+When creating the task teacher indicated that an output file was requested to be generated. Example:
+
+![taks requesting an output file to be generated](images/taks-requesting-an-output-file-to-be-generated.png)
