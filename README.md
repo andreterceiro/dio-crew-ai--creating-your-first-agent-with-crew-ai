@@ -92,3 +92,8 @@ Using the same idea teacher coded the tasks. Example:
 **Please note that the teacher is coding the idea passed in this next graph and that I passing in the previous paragraphs only examples of one agent and one task, not three.**
 
 ![crew created by the teacher in the course](images/crew-created-by-the-teacher-in-the-course.png)
+
+
+# Simple script to test the knowlegde passed by the teacher
+
+To test my understanding of the concepts passed by the teacher in the course and to put in script **only the more important things**,  I created [this](https://colab.research.google.com/drive/1t3uKLT2hVl0v1sHMB--cU_QqL7Wu0cyk) script.
