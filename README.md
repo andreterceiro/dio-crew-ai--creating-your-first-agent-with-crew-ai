@@ -137,3 +137,7 @@ variaveis = {
 resultado = await equipe.kickoff_async(inputs = variaveis)
 print(resultado)
 ```
+
+Please note that in this previous script you can see how to use variables:
+
+![using variables](images/using-variables.png)
