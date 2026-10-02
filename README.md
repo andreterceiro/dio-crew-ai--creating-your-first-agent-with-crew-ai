@@ -149,3 +149,10 @@ When creating the task teacher indicated that an output file was requested to be
 The output in the Jupyter Notebook was relaed only to the last of the three tasks, but the Markdown files was generated:
 
 ![generated markdown files](images/generated-markdown-files.png)
+
+
+# Making an output more verbose
+
+Please activate the verbosity configuration this way:
+
+![enabling verbosity](images/enabling-verbosity.png)
