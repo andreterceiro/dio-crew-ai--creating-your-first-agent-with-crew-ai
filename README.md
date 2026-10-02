@@ -157,4 +157,6 @@ Please activate the verbosity configuration this way:
 
 ![enabling verbosity](images/enabling-verbosity.png)
 
-**A comment:** Teacher commented that enabling verbosity **in Google Colab** maybe will generate errors in the execution.
+**A comment:** Teacher commented that enabling verbosity **in Google Colab** maybe will generate errors in the execution:
+
+![example of error genereted by verbosity in Google Colab](images/example-of-error-genereted-by-verbosity-in-Google-Colab.png)
